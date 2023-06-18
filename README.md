@@ -17,11 +17,11 @@ To install Vision-Transformer, follow these steps:
 
 1. Clone the repository
 
-`git clone https://github.com/KpLBaTMaN/Vision-Transformer.git`
+```git clone https://github.com/KpLBaTMaN/Vision-Transformer.git```
 
 2. Navigate to the package directory:
 
-`cd vision-transformer`
+```cd vision-transformer```
 
 3. Create and activate a virtual environment:
 
@@ -32,6 +32,6 @@ venv\Scripts\activate  # For Windows
 
 4. Install the required dependencies:
 
-`pip install -r requirements.txt`
+```pip install -r requirements.txt```
 
 You're ready to start exploring vision transformers!
