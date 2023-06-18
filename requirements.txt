@@ -1,0 +1,22 @@
+pandas
+numpy
+notebook
+tensorflow
+matplotlib
+tqdm
+opencv-python
+torchinfo
+tensorflow_datasets
+seaborn
+scikit-learn
+python-dotenv
+
+# Model Ev
+torchinfo
+torchviz
+
+# pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
+# --index-url https://download.pytorch.org/whl/cu117
+# torch
+# torchvision
+# torchaudio

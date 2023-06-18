@@ -35,3 +35,10 @@ venv\Scripts\activate  # For Windows
 ```pip install -r requirements.txt```
 
 You're ready to start exploring vision transformers!
+
+
+## Environment file 
+
+To use the `.env` file in Python, you can utilize the `python-dotenv` library. This library allows you to load environment variables from the .env file into your Python script. Here's an example of how to use it:
+
+Make sure that the .env file is in the same directory as your Python script or specify the correct path in the dotenv_values function.
